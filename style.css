@@ -1,6 +1,9 @@
 html, body {
   margin: 0;
   padding: 0;
+  background: linear-gradient(red ,pink , red );
+  background-position: center;
+  
 }
 canvas {
   display: block;
@@ -10,3 +13,4 @@ main {
   top: 350px;
   left: 250px;
 }
+
