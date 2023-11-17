@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(red ,pink , red );
+  background: linear-gradient(rgb(236, 132, 236), ,rgb(226, 255, 192) , rgb(247, 175, 229) );
   background-position: center;
   
 }
